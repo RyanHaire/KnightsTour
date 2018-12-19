@@ -1,0 +1,5 @@
+RequestDispatcher
+doGet KnightsTourServlet
+
+Redirect
+doGet HeuristicMethodSevlet and NonIntelligentMethod Servlet
